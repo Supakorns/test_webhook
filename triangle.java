@@ -7,6 +7,6 @@ class triangle {
 		}System.out.println();
 	}
 	System.out.println("test 123456");
-
+	System.out.println("Hello world");
     }
 }
